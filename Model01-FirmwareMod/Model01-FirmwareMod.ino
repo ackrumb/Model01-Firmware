@@ -212,7 +212,7 @@ KEYMAPS(
    M(MACRO_ANY),  Key_6, Key_7, Key_8,     Key_9,         Key_0,         LockLayer(NUMPAD),
    Key_Enter,     Key_J, Key_L, Key_U,     Key_Y,         Key_Semicolon, Key_Equals,
                   Key_H, Key_N, Key_E,     Key_I,         Key_O,         Key_Quote,
-   Key_RightAlt,  Key_K, Key_M, Key_Comma, Key_Period,    Key_Slash,     Key_Minus,
+   Key_Period,  Key_K, Key_M, Key_Comma, Key_Period,    Key_Slash,     Key_Minus,
    Key_RightShift, Key_LeftGui, Key_Backspace, Key_RightControl,
    ShiftToLayer(FUNCTION)),
 
@@ -267,7 +267,7 @@ KEYMAPS(
    Consumer_ScanPreviousTrack, Key_F6,                 Key_F7,                   Key_F8,                   Key_F9,          Key_F10,          Key_F11,
    Consumer_PlaySlashPause,    Consumer_ScanNextTrack, Key_LeftCurlyBracket,     Key_RightCurlyBracket,    Key_LeftBracket, Key_RightBracket, Key_F12,
                                Key_LeftArrow,          Key_DownArrow,            Key_UpArrow,              Key_RightArrow,  ___,              ___,
-   Key_PcApplication,          Consumer_Mute,          Consumer_VolumeDecrement, Consumer_VolumeIncrement, ___,             Key_Backslash,    Key_Pipe,
+   Key_Slash,          Consumer_Mute,          Consumer_VolumeDecrement, Consumer_VolumeIncrement, ___,             Key_Backslash,    Key_Pipe,
    ___, ___, Key_Delete, ___,
    ___)
 ) // KEYMAPS(
